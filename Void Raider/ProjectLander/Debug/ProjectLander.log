@@ -1,0 +1,27 @@
+﻿  StartScreen.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\bitmap.h(6): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  Rnd.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\rnd.cpp(18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Projectile.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\bitmap.h(6): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  PlayState.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\bitmap.h(6): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  Player.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\bitmap.h(6): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  GameOverState.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\bitmap.h(6): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  Main.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\main.cpp(8): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  IntroState.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\bitmap.h(6): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  GameEngine.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\gameengine.cpp(1): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  Enemy.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\bitmap.h(6): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  Bitmap.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\bitmap.h(6): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  BackgroundImage.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\bitmap.h(6): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  Asteroid.cpp
+c:\users\paul\documents\usb stuffs\year 2 level 2\trimester 1\games project\voidraider(finished)\void raider\projectlander\bitmap.h(6): fatal error C1083: Cannot open include file: 'gl/glut.h': No such file or directory
+  Generating Code...
